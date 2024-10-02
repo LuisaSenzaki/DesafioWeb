@@ -58,3 +58,7 @@ div {
 .questions{
     justify-content: space-between;
 }
+
+.faq-question-icon{
+    color: green;
+}
